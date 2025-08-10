@@ -1,6 +1,5 @@
 #hello do i get the change
 
-
 class checktheday:
     def __init__(self):
         pass
